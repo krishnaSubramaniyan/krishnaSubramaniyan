@@ -44,9 +44,12 @@
  ---
  
  ## 📊 GitHub Stats
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=krishnaSubramaniyan&show_icons=true&theme=radical" alt="GitHub Stats"/>
- </p>
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaSubramaniyan&show_icons=true&theme=radical" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaSubramaniyan&theme=radical&hide_longest_streak=true" />
+ <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaSubramaniyan&layout=compact&theme=radical" />
+</p>
  
  ---
  

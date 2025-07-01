@@ -15,7 +15,7 @@
  
  ## 🌐 Connect with Me
  <p align="left">
-   <a href="www.linkedin.com/in/krishna-subramaniyan" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
+   <a href="https://www.linkedin.com/in/krishna-subramaniyan/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
    <a href="https://github.com/krishnaSubramaniyan/krishnaSubramaniyan" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" width="40" height="40"/> </a>
    <a href="mailto:krishnasubramaniyan.ks@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" width="40" height="40"/> </a>
  </p>
